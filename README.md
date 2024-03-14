@@ -1,4 +1,4 @@
-# Titanic_datast_EDA_Dasboard
+# Titanic_datast_EDA_&_Dasboard
 
 This dataset related to the Titanic passengers. Each row represents an individual passenger, and the columns contain various information about them. Here's a breakdown of the columns:
 
